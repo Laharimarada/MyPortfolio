@@ -84,7 +84,7 @@ function About() {
               </p>
             </div>
             <div className="card-footer">
-              <small className="text-body-secondary">CGPA:7.4</small>
+              <small className="text-body-secondary">CGPA:7.3</small>
             </div>
           </div>
         </div>
